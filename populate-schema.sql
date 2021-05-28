@@ -31,8 +31,8 @@ VALUES
     '["HTML5", "CSS3", "JavaScript", "SQL"]',
     '["React","TypeScript","Docker","Node","Express","PostgreSQL","AWS","HTTPS"]',
     '["VSCode","Git","Bash","Chrome DevTools","React DevTools","WSL2","Putty SSH"]',
-    '',
-    ''
+    'https://www.chrishoward.com.au',
+    'https://github.com/christopher-howard?tab=repositories&q=portfolio'
   ),
   (
     'uDrew Council Rules Evaluation',
@@ -153,7 +153,7 @@ VALUES
     '["AWS EC2", "AWS SES", "CouchDB", "Node", "Puppeteer"]',
     '["VSCode", "Git", "Bash", "WinSCP", "Putty SSH"]',
     'private',
-    ''
+    'https://github.com/christopher-howard/gumtree-notifier'
   ),
   (
     'Joint Seal QLD',
@@ -163,8 +163,8 @@ VALUES
     '["HTML5", "CSS3", "JavaScript"]',
     '[]',
     '["VSCode", "Chrome DevTools"]',
-    '',
-    ''
+    'https://jointsealqld.chrishoward.com.au/',
+    'https://github.com/christopher-howard/Project-Client-Website-Joint-Seal-QLD'
   ),
   (
     'Know Your Fees',
@@ -174,7 +174,7 @@ VALUES
     '["HTML5", "CSS3", "JavaScript"]',
     '["AWS Route 53", "AWS S3"]',
     '["VSCode", "Chrome DevTools"]',
-    'http://knowyourfees.com.au/',
+    'https://knowyourfees.com.au/',
     'private'
   );
 
@@ -240,6 +240,22 @@ INSERT INTO testimonials (
   text
 )
 VALUES 
+  (
+    'Kris Zima',
+    'Orbmaps & uDrew',
+    'CTO & Senior Developer',
+    'https://media-exp1.licdn.com/dms/image/C5603AQF9EH59IrAwKw/profile-displayphoto-shrink_400_400/0/1518509688042?e=1627516800&v=beta&t=sMEeaIuQLz0UdbnDITt2GLIx4Pr1zeoqPRjWMQCX_gA',
+    'https://www.linkedin.com/in/kzima/',
+    'I had a pleasure working with Chris at Orbmaps and uDrew and I must say that Chris is a self driven individual that can solve complex problems and deliver great solutions. He also has an amazing skill to learn new programming languages quickly and apply them as needed. I strongly recommend Chris to any business that needs a reliable and honest engineer.'
+  ),
+  (
+    'Tom Young',
+    'uDrew',
+    'CEO',
+    'https://media-exp1.licdn.com/dms/image/C4E03AQH8khms6djfhw/profile-displayphoto-shrink_400_400/0/1520571330164?e=1627516800&v=beta&t=TG3blfTeZTqZEHkekZsD5sN8OiM3RxATnXV9MScdpL4',
+    'https://www.linkedin.com/in/tom-young-udrew/',
+    'It was always a pleasure working with Chris''s smiling face at uDrew. I was very impressed by his creative way of problem solving and critical thinking ability, able to quickly understand complex problems and develop elegant solutions in an independent and highly organized manner. Combined with this, his fun, friendly, creative manner was complimented by his ability to communicate with the team, perfectly binding all of his skill sets together, setting the bar high with his persistent high quality and high work standards. We consider ourselves fortunate to have worked with Chris, and myself and the team are grateful for the time, fun, hard work & many laughs he gave us along the way.'
+  ),
   (
     'Craig Giles',
     'Synchrotech Controls',

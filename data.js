@@ -45,8 +45,8 @@ const data = {
         "WSL2",
         "Putty SSH",
       ],
-      demo: "",
-      code: "",
+      demo: "http://www.chrishoward.com.au",
+      code: "https://github.com/christopher-howard?tab=repositories&q=portfolio",
     },
     {
       title: "uDrew Council Rules Evaluation",
@@ -305,7 +305,7 @@ const data = {
       technologies: ["AWS EC2", "AWS SES", "CouchDB", "Node", "Puppeteer"],
       tools: ["VSCode", "Git", "Bash", "WinSCP", "Putty SSH"],
       demo: "private",
-      code: "",
+      code: "https://github.com/christopher-howard/gumtree-notifier",
     },
     {
       title: "Joint Seal QLD",
@@ -316,8 +316,8 @@ const data = {
       languages: ["HTML5", "CSS3", "JavaScript"],
       technologies: [],
       tools: ["VSCode", "Chrome DevTools"],
-      demo: "",
-      code: "",
+      demo: "https://jointsealqld.chrishoward.com.au/",
+      code: "https://github.com/christopher-howard/Project-Client-Website-Joint-Seal-QLD",
     },
     {
       title: "Know Your Fees",
@@ -328,7 +328,7 @@ const data = {
       languages: ["HTML5", "CSS3", "JavaScript"],
       technologies: ["AWS Route 53", "AWS S3"],
       tools: ["VSCode", "Chrome DevTools"],
-      demo: "http://knowyourfees.com.au/",
+      demo: "https://knowyourfees.com.au/",
       code: "private",
     },
   ],
@@ -372,6 +372,22 @@ const data = {
     },
   ],
   testimonials: [
+    {
+      name: "Kris Zima",
+      company: "Orbmaps & uDrew",
+      role: "CTO & Senior Developer",
+      img: "https://media-exp1.licdn.com/dms/image/C5603AQF9EH59IrAwKw/profile-displayphoto-shrink_400_400/0/1518509688042?e=1627516800&v=beta&t=sMEeaIuQLz0UdbnDITt2GLIx4Pr1zeoqPRjWMQCX_gA",
+      link: "https://www.linkedin.com/in/kzima/",
+      text: "I had a pleasure working with Chris at uDrew and I must say that Chris is a self driven individual that can solve complex problems and deliver great solutions. He also has an amazing skill to learn new programming languages quickly and apply them as needed. I strongly recommend Chris to any business that needs a reliable and honest engineer.",
+    },
+    {
+      name: "Tom Young",
+      company: "uDrew",
+      role: "CEO",
+      img: "https://media-exp1.licdn.com/dms/image/C4E03AQH8khms6djfhw/profile-displayphoto-shrink_400_400/0/1520571330164?e=1627516800&v=beta&t=TG3blfTeZTqZEHkekZsD5sN8OiM3RxATnXV9MScdpL4",
+      link: "https://www.linkedin.com/in/tom-young-udrew/",
+      text: "It was always a pleasure working with Chris's smiling face at uDrew. I was very impressed by his creative way of problem solving and critical thinking ability, able to quickly understand complex problems and develop elegant solutions in an independent and highly organized manner. Combined with this, his fun, friendly, creative manner was complimented by his ability to communicate with the team, perfectly binding all of his skill sets together, setting the bar high with his persistent high quality and high work standards. We consider ourselves fortunate to have worked with Chris, and myself and the team are grateful for the time, fun, hard work & many laughs he gave us along the way.",
+    },
     {
       name: "Craig Giles",
       company: "Synchrotech Controls",
