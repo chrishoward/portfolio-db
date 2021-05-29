@@ -51,6 +51,7 @@ CREATE TABLE community(
   id SERIAL,
   title TEXT NOT NULL,
   img TEXT NOT NULL,
+  alt TEXT NOT NULL,
   "link" TEXT NOT NULL
 );
 

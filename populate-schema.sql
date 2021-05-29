@@ -27,9 +27,9 @@ VALUES
     'Portfolio Website',
     'portfolio.jpg',
     '["Client-side", "Server-side"]',
-    'I created this website primarily as a means of presenting projects I''ve worked on and provide links to my source code and live demos where possible.',
+    'I created this website primarily as a means of presenting projects I''ve worked on and to provide links to my source code and live demos where possible. This single page application incorporates a server-side API and database, all deployed as Docker containers. This wasn''t necessary given the simplicity of the app architecture but was done for demonstration purposes and to practice using Docker.',
     '["HTML5", "CSS3", "JavaScript", "SQL"]',
-    '["React","TypeScript","Docker","Node","Express","PostgreSQL","AWS","HTTPS"]',
+    '["React","TypeScript","Docker","Node","Express","PostgreSQL","AWS EC2","AWS Route 53", "HTTPS"]',
     '["VSCode","Git","Bash","Chrome DevTools","React DevTools","WSL2","Putty SSH"]',
     'https://www.chrishoward.com.au',
     'https://github.com/christopher-howard?tab=repositories&q=portfolio'
@@ -161,10 +161,10 @@ VALUES
     '["Client-side"]',
     'Client website I built for a small joint sealing business in the construction industry.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '[]',
+    '["AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "HTTPS"]',
     '["VSCode", "Chrome DevTools"]',
     'https://jointsealqld.chrishoward.com.au/',
-    'https://github.com/christopher-howard/Project-Client-Website-Joint-Seal-QLD'
+    'https://github.com/christopher-howard/joint-seal-qld'
   ),
   (
     'Know Your Fees',
@@ -172,7 +172,7 @@ VALUES
     '["Client-side"]',
     'One of the first websites I made, using basic HTML5, CSS3 and JavaScript only. It lists all the potential upfront costs of buying your first home, to help buyers make an informed decision when choosing to buy a house.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["AWS Route 53", "AWS S3"]',
+    '["AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "AWS IAM", "AWS Lambda", "AWS CloudWatch", "HTTPS", "Google Maps API"]',
     '["VSCode", "Chrome DevTools"]',
     'https://knowyourfees.com.au/',
     'private'
@@ -268,17 +268,20 @@ VALUES
 INSERT INTO community (
   title,
   img,
+  alt,
   link
 )
 VALUES 
   (
     'React Brisbane',
     'https://secure.meetupstatic.com/photos/event/1/e/5/2/600_478867762.jpeg',
+    'React Brisbane Logo',
     'https://www.meetup.com/reactbris/'
   ),
   (
     'Brisbane JavaScript',
     'https://secure.meetupstatic.com/photos/event/b/8/0/1/600_15527105.jpeg',
+    'Brisbane JavaScript Logo',
     'https://www.meetup.com/BrisJS/'
   );
 
