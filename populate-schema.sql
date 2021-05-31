@@ -228,7 +228,7 @@ VALUES
     'QUT Logo',
     'https://www.qut.edu.au/',
     'Bachelor of Mechanical Engineering',
-    'I completed a Bachelor of Mechanical Engineering course over a period of four and a half years and graduated with Second Class Honours. This course further strengthened my ability to understand how to approach and dissect complex problems of all forms, not just technical, and then leverage technology and clever design to solve these problems. Although the solution implementation is different between Mechanical and Software engineering, the underlying logical problem solving process is the same and I feel my problem solving skills and experience that I gained as a mechanical engineer have made me a great software developer from the start.'
+    'I completed a Bachelor of Mechanical Engineering course over a period of four and a half years and graduated with a GPA of 5.8, Second Class Honours. Although the solution implementation is different between Mechanical and Software engineering, the underlying logical problem solving process is the same and I feel my skills and experience that I gained as a mechanical engineer made me a great software developer from the start.'
   );
 
 INSERT INTO testimonials (
