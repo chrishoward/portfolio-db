@@ -8,7 +8,7 @@ VALUES (
   'https://avatars2.githubusercontent.com/u/23305394?s=460&v=4',
   'Profile photo of Chris Howard',
   'https://www.linkedin.com/in/christopher-howard-au',
-  '[{"title":"Background","text":"I''m a self-taught, mid level, full stack Web Developer with 3 years of experience. I previously studied and worked as a Mechanical Engineer and in 2017 I made the decision to transition to a career in Software Development. I love using technology to break down and solve challenging business problems, especially with a team of good people."},{"title":"Hobbies","text":"Software developing, mountain biking, surfing, soccer, online gaming, exercise, fishing and road trips in my van."},{"title":"Goals","text":"To further strengthen my skill set and knowledge as a full stack developer, through continued study, hard work and learning from others in the field. I want to continue to grow my understanding of current and future web technologies and design patterns, their pros and cons, and which solution is best suited to which problem."}]'
+  '[{"title":"Background","text":"I''m a self-taught, mid level, full stack Web Developer with 3 years of experience. I previously studied and worked as a Mechanical Engineer and in 2017 I made the decision to transition to a career in Software Development. I love using technology to break down and solve challenging business problems, especially with a team of good people."},{"title":"Hobbies","text":"Software developing, mountain biking, surfing, soccer, online gaming, exercise, fishing and road trips in my van."},{"title":"Goals","text":"To further strengthen my skill set and knowledge as a Full Stack Developer through continued study, hard work and learning from others in the field. I want to continue to grow my understanding of current and future web technologies and design patterns, their pros and cons, and which solution is best suited to which problem."}]'
 );
 
 INSERT INTO projects (
@@ -29,7 +29,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'I created this website primarily as a means of presenting projects I''ve worked on and to provide links to my source code and live demos where possible. This single page application incorporates a server-side API and database, all deployed as Docker containers. This wasn''t necessary given the simplicity of the app architecture but was done for demonstration purposes and to practice using Docker.',
     '["HTML5", "CSS3", "JavaScript", "SQL"]',
-    '["React","TypeScript","Docker","Node","Express","PostgreSQL","AWS EC2","AWS Route 53", "HTTPS"]',
+    '["Mobile Responsive","React","TypeScript","Docker","Node","Express","PostgreSQL","AWS EC2","AWS Route 53", "AWS CloudFront", "AWS ACM", "HTTPS"]',
     '["VSCode","Git","Bash","Chrome DevTools","React DevTools","WSL2","Putty SSH"]',
     'https://www.chrishoward.com.au',
     'https://github.com/christopher-howard?tab=repositories&q=portfolio'
@@ -51,7 +51,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'The flagship product of uDrew, which allows users to get instant council assessment for their property development project. Worked on by all team members, I contributed to the UI design and implementation, user flow logic, SVG drawing capabilities, engineering calculation API and PDF report generation to name some key areas.',
     '["HTML5", "CSS3", "JavaScript", "SQL"]',
-    '["TypeScript","Redux","React","RMWC","Express","Node","PostgreSQL","SVG","Puppeteer","Leaflet","Netlify","Storybook"]',
+    '["Mobile Responsive","TypeScript","Redux","React","RMWC","Express","Node","PostgreSQL","SVG","Puppeteer","Leaflet","Netlify","Storybook"]',
     '["VSCode","Git","Bash","Chrome DevTools","pgAdmin","Postman","React DevTools","Jira (Scrum)"]',
     'https://app.udrew.com.au/intro/1',
     'private'
@@ -62,7 +62,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'All pages required for various login related user flows, such as forgot password, create account, confirmation email redirect etc. I created the front end UI and worked with a colleague to implement the authentication functionality.',
     '["HTML5", "CSS3", "JavaScript", "SQL"]',
-    '["Passport","MDC React","React","Express","Node","TypeScript","PostgreSQL","Netlify"]',
+    '["Mobile Responsive","Passport","MDC React","React","Express","Node","TypeScript","PostgreSQL","Netlify"]',
     '["VSCode","Git","Bash","Chrome DevTools","pgAdmin","Postman","React DevTools","Trello (Scrum)"]',
     'private',
     'private'
@@ -82,9 +82,9 @@ VALUES
     'uDrew Admin Application',
     'udrew-admin.jpg',
     '["Client-side"]',
-    'The user interface I developed for the admin application that allowed councils to view user submitted development projects, manage council rules and various other administrative tasks. The server-side part of the application was put on hold while I was at the company.',
+    'The user interface I developed for the admin application that allowed councils to view user submitted development projects, manage council rules and various other administrative tasks. Development of the server-side part of the application had not commenced yet while I was at the company.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["React", "RMWC", "TypeScript"]',
+    '["Mobile Responsive","React", "RMWC", "TypeScript"]',
     '["VSCode", "Git", "Bash", "Chrome DevTools", "Trello (Scrum)"]',
     'private',
     'private'
@@ -95,7 +95,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'uForm was an early version of the uDrew application which demonstrated the product idea and generated interest from various parties.',
     '["HTML5", "CSS3", "JavaScript", "SQL"]',
-    '["Leaflet","React","RMWC","Redux","Express","Node","PostgreSQL","Netlify"]',
+    '["Mobile Responsive","Leaflet","React","RMWC","Redux","Express","Node","PostgreSQL","Netlify"]',
     '["VSCode","Git","Bash","Chrome DevTools","React DevTools","pgAdmin","Postman","Trello (Scrum)"]',
     'private',
     'private'
@@ -106,7 +106,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'I built the Orbmaps CRM as part of the Orbmaps product suite which allows users to save properties to a database from the Orbmaps Scanner mapping interface and add various information and files relating to their properties.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["React","Redux","RMWC","AWS EC2","Netlify","CouchDB","Node","Express"]',
+    '["Mobile Responsive","React","Redux","RMWC","AWS EC2","Netlify","CouchDB","Node","Express"]',
     '["VSCode","Git","Bash","Chrome DevTools","Putty SSH","Postman","React DevTools"]',
     'private',
     'private'
@@ -128,7 +128,7 @@ VALUES
     '["Client-side"]',
     'I built this website as part of Orbmaps'' marketing campaign to communicate the features of their product and attract new customers.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["React", "Material UI", "Netlify"]',
+    '["Mobile Responsive","React", "Material UI", "Netlify"]',
     '["VSCode", "Git", "Bash", "Chrome DevTools", "React DevTools"]',
     'http://www.orbmaps.com',
     'private'
@@ -139,7 +139,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'Client website I built using WordPress for a Queensland occupational rehabilitation company.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["WordPress", "phpMyAdmin"]',
+    '["Mobile Responsive","WordPress", "phpMyAdmin"]',
     '["VSCode", "Chrome DevTools", "FileZilla FTP"]',
     'http://www.easec.com.au/',
     'private'
@@ -161,7 +161,7 @@ VALUES
     '["Client-side"]',
     'Client website I built for a small joint sealing business in the construction industry.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "HTTPS"]',
+    '["Mobile Responsive","AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "HTTPS", "Google Maps API"]',
     '["VSCode", "Chrome DevTools"]',
     'https://jointsealqld.chrishoward.com.au/',
     'https://github.com/christopher-howard/joint-seal-qld'
@@ -172,7 +172,7 @@ VALUES
     '["Client-side"]',
     'One of the first websites I made, using basic HTML5, CSS3 and JavaScript only. It lists all the potential upfront costs of buying your first home, to help buyers make an informed decision when choosing to buy a house.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "AWS IAM", "AWS Lambda", "AWS CloudWatch", "HTTPS", "Google Maps API"]',
+    '["Mobile Responsive","AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "AWS IAM (Email)", "AWS Lambda (Email)", "AWS CloudWatch (Email)", "HTTPS"]',
     '["VSCode", "Chrome DevTools"]',
     'https://knowyourfees.com.au/',
     'private'
