@@ -32,7 +32,7 @@ VALUES
     '["Mobile Responsive","React","TypeScript","Docker","Node","Express","PostgreSQL","AWS EC2","AWS Route 53", "AWS CloudFront", "AWS ACM", "HTTPS"]',
     '["VSCode","Git","Bash","Chrome DevTools","React DevTools","WSL2","Putty SSH"]',
     'https://www.chrishoward.com.au',
-    'https://github.com/christopher-howard?tab=repositories&q=portfolio'
+    'https://github.com/chrishoward?tab=repositories&q=portfolio'
   ),
   (
     'uDrew Council Rules Evaluation',
@@ -153,7 +153,7 @@ VALUES
     '["AWS EC2", "AWS SES", "CouchDB", "Node", "Puppeteer"]',
     '["VSCode", "Git", "Bash", "WinSCP", "Putty SSH"]',
     'private',
-    'https://github.com/christopher-howard/gumtree-notifier'
+    'https://github.com/chrishoward/gumtree-notifier'
   ),
   (
     'Joint Seal QLD',
@@ -164,7 +164,7 @@ VALUES
     '["Mobile Responsive","AWS S3", "AWS ACM", "AWS CloudFront", "AWS Route 53", "HTTPS", "Google Maps API"]',
     '["VSCode", "Chrome DevTools"]',
     'https://jointsealqld.chrishoward.com.au/',
-    'https://github.com/christopher-howard/joint-seal-qld'
+    'https://github.com/chrishoward/joint-seal-qld'
   ),
   (
     'Know Your Fees',
@@ -302,7 +302,7 @@ VALUES
     'github.svg',
     'Github Logo',
     'Github',
-    'https://github.com/christopher-howard'
+    'https://github.com/chrishoward'
   ),
   (
     'linkedin.svg',
