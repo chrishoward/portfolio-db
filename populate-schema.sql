@@ -249,6 +249,14 @@ VALUES
     'I had a pleasure working with Chris at Orbmaps and uDrew and I must say that Chris is a self driven individual that can solve complex problems and deliver great solutions. He also has an amazing skill to learn new programming languages quickly and apply them as needed. I strongly recommend Chris to any business that needs a reliable and honest engineer.'
   ),
   (
+    'Paul Tillsley',
+    'uDrew',
+    'Senior Developer',
+    'https://www.udrew.com.au/assets/img/team10.jpg',
+    '',
+    'Chris is a fantastic problem solver. He has great attention to detail and works to get the right solution.'
+  ),
+  (
     'Tom Young',
     'uDrew',
     'CEO',
