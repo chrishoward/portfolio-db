@@ -6,7 +6,7 @@ INSERT INTO about_me (
 )
 VALUES (
   'https://avatars2.githubusercontent.com/u/23305394?s=460&v=4',
-  'X Profile photo of Chris Howard',
+  'Profile photo of Chris Howard',
   'https://www.linkedin.com/in/christopher-howard-au',
   '[{"title":"Background","text":"I''m a self-taught, mid level, full stack Web Developer with 3 years of experience. I previously studied and worked as a Mechanical Engineer and in 2017 I made the decision to transition to a career in Software Development. I love using technology to break down and solve challenging business problems, especially with a team of good people."},{"title":"Hobbies","text":"Software developing, mountain biking, surfing, soccer, online gaming, exercise, fishing and road trips in my van."},{"title":"Goals","text":"To further strengthen my skill set and knowledge as a Full Stack Developer through continued study, hard work and learning from others in the field. I want to continue to grow my understanding of current and future web technologies and design patterns, their pros and cons, and which solution is best suited to which problem."}]'
 );
