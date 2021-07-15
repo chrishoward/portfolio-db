@@ -29,8 +29,8 @@ VALUES
     '["Client-side", "Server-side"]',
     'I created this website primarily as a means of presenting projects I''ve worked on and to provide links to my source code and live demos where possible. This single page application incorporates a server-side API and database, all deployed as Docker containers. This wasn''t necessary given the simplicity of the app architecture but was done for demonstration purposes and to practice using Docker.',
     '["HTML5", "CSS3", "JavaScript","TypeScript", "SQL"]',
-    '["Mobile Responsive","React","Docker","Node","Express","PostgreSQL","AWS EC2","AWS Route 53", "AWS CloudFront", "AWS ACM", "HTTPS"]',
-    '["VSCode","Git","Bash","Chrome DevTools","React DevTools","WSL2","Putty SSH"]',
+    '["Mobile Responsive","React","React Testing Library", "Jest", "Accessibility","Docker","Node","Express","PostgreSQL","CI/CD","AWS EC2","AWS Route 53", "AWS CloudFront", "AWS ACM", "HTTPS"]',
+    '["VSCode","Git","Bash","Chrome DevTools","React DevTools","GitHub Actions","WSL2","Putty SSH"]',
     'https://www.chrishoward.com.au',
     'https://github.com/chrishoward?tab=repositories&q=portfolio'
   ),
