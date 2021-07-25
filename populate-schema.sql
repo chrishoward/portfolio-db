@@ -52,7 +52,7 @@ VALUES
     'The flagship product of uDrew, which allows users to get instant council assessment for their property development project. Worked on by all team members, I contributed to the UI design and implementation, user flow logic, SVG drawing capabilities, engineering calculation API and PDF report generation to name some key areas.',
     '["HTML5", "CSS3", "JavaScript","TypeScript", "SQL"]',
     '["Mobile Responsive","Redux","React","RMWC","Express","Node","PostgreSQL","SVG","Puppeteer","Leaflet","Netlify","Storybook","Google Cloud Platform Console","Google Sheets API","Google Apps Script"]',
-    '["VSCode","Git","Bash","Chrome DevTools","pgAdmin","Postman","React DevTools","Jira (Scrum)"]',
+    '["VSCode","Git","Bash","Chrome DevTools","pgAdmin","Postman","React DevTools","JMeter","Jira (Scrum)"]',
     'https://app.udrew.com.au/intro/1',
     'private'
   ),
