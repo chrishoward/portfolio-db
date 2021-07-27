@@ -106,7 +106,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'I built the Orbmaps CRM as part of the Orbmaps product suite which allows users to save properties to a database from the Orbmaps Scanner mapping interface and add various information and files relating to their properties.',
     '["HTML5", "CSS3", "JavaScript"]',
-    '["Mobile Responsive","React","Redux","RMWC","AWS EC2","Netlify","CouchDB","Node","Express"]',
+    '["Mobile Responsive","React","Redux", "Serverless", "RMWC","AWS EC2","Netlify","CouchDB","Node","Express"]',
     '["VSCode","Git","Bash","Chrome DevTools","Putty SSH","Postman","React DevTools"]',
     'private',
     'private'
@@ -117,7 +117,7 @@ VALUES
     '["Client-side", "Server-side"]',
     'This application allows users to locate and view properties through a mapping interface and overlay various planning related plots. I contributed to various features, bug fixes and improvements requested by users.',
     '["HTML5", "CSS3", "JavaScript","TypeScript", "SQL"]',
-    '["React","Redux","RMWC","AWS Cognito","AWS EC2","Netlify","CouchDB","Node","Express","Leaflet"]',
+    '["React","Redux","Serverless", "RMWC","AWS Cognito","AWS EC2","Netlify","CouchDB","Node","Express","Leaflet"]',
     '["VSCode","Git","Bash","Chrome DevTools","Putty SSH","pgAdmin","Postman","React DevTools"]',
     'private',
     'private'
