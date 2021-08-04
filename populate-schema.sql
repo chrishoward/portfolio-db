@@ -244,7 +244,7 @@ VALUES
     'Kris Zima',
     'Orbmaps & uDrew',
     'CTO & Senior Developer',
-    'https://media-exp1.licdn.com/dms/image/C5603AQF9EH59IrAwKw/profile-displayphoto-shrink_400_400/0/1518509688042?e=1627516800&v=beta&t=sMEeaIuQLz0UdbnDITt2GLIx4Pr1zeoqPRjWMQCX_gA',
+    'https://chrishoward-assets.s3.ap-southeast-2.amazonaws.com/kris-photo.jpg',
     'https://www.linkedin.com/in/kzima/',
     'I had a pleasure working with Chris at Orbmaps and uDrew and I must say that Chris is a self driven individual that can solve complex problems and deliver great solutions. He also has an amazing skill to learn new programming languages quickly and apply them as needed. I strongly recommend Chris to any business that needs a reliable and honest engineer.'
   ),
@@ -252,7 +252,7 @@ VALUES
     'Paul Tillsley',
     'uDrew',
     'Senior Developer',
-    'https://www.udrew.com.au/assets/img/team10.jpg',
+    'https://chrishoward-assets.s3.ap-southeast-2.amazonaws.com/paul-photo.jpg',
     '',
     'Chris is a fantastic problem solver. He has great attention to detail and works to get the right solution.'
   ),
@@ -260,7 +260,7 @@ VALUES
     'Tom Young',
     'uDrew',
     'CEO',
-    'https://media-exp1.licdn.com/dms/image/C4E03AQH8khms6djfhw/profile-displayphoto-shrink_400_400/0/1520571330164?e=1627516800&v=beta&t=TG3blfTeZTqZEHkekZsD5sN8OiM3RxATnXV9MScdpL4',
+    'https://chrishoward-assets.s3.ap-southeast-2.amazonaws.com/tom-photo.jpg',
     'https://www.linkedin.com/in/tom-young-udrew/',
     'It was always a pleasure working with Chris''s smiling face at uDrew. I was very impressed by his creative way of problem solving and critical thinking ability, able to quickly understand complex problems and develop elegant solutions in an independent and highly organized manner. Combined with this, his fun, friendly, creative manner was complimented by his ability to communicate with the team, perfectly binding all of his skill sets together, setting the bar high with his persistent high quality and high work standards. We consider ourselves fortunate to have worked with Chris, and myself and the team are grateful for the time, fun, hard work & many laughs he gave us along the way.'
   ),
@@ -268,7 +268,7 @@ VALUES
     'Craig Giles',
     'Synchrotech Controls',
     'Senior Mech. Engineer',
-    'https://media-exp1.licdn.com/dms/image/C5103AQEGx7Tc0CjlOw/profile-displayphoto-shrink_400_400/0/1517010827904?e=1627516800&v=beta&t=zqhzf-lCCoqe-KyEvgcVIR7mmaldR2U6H4s8GOWS8SY',
+    'https://chrishoward-assets.s3.ap-southeast-2.amazonaws.com/craig-photo.jpg',
     'https://www.linkedin.com/in/craig-giles-a1005b122/',
     'Chris''s professional manner has been exemplary. He has demonstrated the ability to work independently while understanding the point where seeking advice and direction is necessary. He has integrated well into a multi-disciplinary team showing effective communication and interpersonal skills. I would not hesitate in recommending Chris to any future employer.'
   );
